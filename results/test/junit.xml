@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="0.699">
+  <testsuite name="parameters" errors="0" failures="0" skipped="0" timestamp="2023-03-26T19:53:23" time="0.669" tests="4">
+    <testcase classname="parameters url should return undefined when url is not supplied" name="parameters url should return undefined when url is not supplied" time="0.011">
+    </testcase>
+    <testcase classname="parameters url should return array when one url is supplied" name="parameters url should return array when one url is supplied" time="0.001">
+    </testcase>
+    <testcase classname="parameters url should return array when two urls are supplied" name="parameters url should return array when two urls are supplied" time="0.001">
+    </testcase>
+    <testcase classname="parameters url should return array when two urls are supplied as array" name="parameters url should return array when two urls are supplied as array" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
